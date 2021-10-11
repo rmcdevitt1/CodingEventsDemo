@@ -20,16 +20,12 @@ namespace CodingEventsDemo.Models
 
         }
 
-
-
         public Event(string name, string description, string contactEmail) : this()
         {
             Name = name;
             Description = description;
             ContactEmail = contactEmail;
         }
-
-        
 
         public override string ToString()
         {
