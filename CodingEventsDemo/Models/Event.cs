@@ -26,8 +26,7 @@ namespace CodingEventsDemo.Models
             ContactEmail = contactEmail;
         }
 
-        
-
+       
         public override string ToString()
         {
             return Name;
