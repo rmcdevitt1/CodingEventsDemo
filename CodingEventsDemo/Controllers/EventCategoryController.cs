@@ -17,7 +17,6 @@ namespace CodingEventsDemo.Controllers
         }
 
         [HttpGet]
-        [Route("EventCategory/Index")]
         public IActionResult Index()
         {
             List<EventCategory> categories = context.Categories.ToList();
