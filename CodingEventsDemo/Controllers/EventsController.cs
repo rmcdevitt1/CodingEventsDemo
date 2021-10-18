@@ -84,6 +84,7 @@ namespace coding_events_practice.Controllers
             return Redirect("/Events");
         }
 
+        //   /Events/Detail/X
         public IActionResult Detail(int id)
         {
             Event theEvent = context.Events
