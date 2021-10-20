@@ -6,7 +6,7 @@
 2. Current state of the app:
     Currently, the app allows organizers to input information about various events happening in the area. This info includes the name of the event, a description, its category, associated keyword tags, and contact emails for event organizers. Events can also be deleted and edited once created. The application also contains functinality to list all of the events by name, by category, or by tag, and clicking on a given event will render a page with all the details about that specific event.
 
-3. Describe the future improvements you want to make to the app including your notes about the Person class.
+3. Future improvements:
     In order to make part two of the purpose of the app to come to fruition, the first thing that needs to be done is to create a Person class. This class will contain:
     public int Id
     public string Name
