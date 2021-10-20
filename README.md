@@ -1,4 +1,4 @@
-# CodingEventsDemo
+# CodingEventsDemo App
 
 1. Purpose of this app:
     The purpose of this Coding Events application is twofold. One part of the app allows organizers to input information about various events happening in the area. This info includes the name of the event, a description, its category, associated keyword tags, and contact emails for event organizers. The other purpose provides the users of this app to access all this information, to sign up for events, and to see events that other people are attending.
