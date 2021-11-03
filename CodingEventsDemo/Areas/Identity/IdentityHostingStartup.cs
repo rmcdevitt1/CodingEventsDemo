@@ -1,12 +1,11 @@
 using System;
-//using CodingEventsDemo.Areas.Identity.Data;
-using CodingEventsDemo.Data;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.UI;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using CodingEventsDemo.Data;
 
 [assembly: HostingStartup(typeof(CodingEventsDemo.Areas.Identity.IdentityHostingStartup))]
 namespace CodingEventsDemo.Areas.Identity
