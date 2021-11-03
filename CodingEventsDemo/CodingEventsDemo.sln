@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.11
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodingEventsDemo", "CodingEventsDemo.csproj", "{EEDAE851-C0B0-4D4A-8A02-09EBE918F139}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEDAE851-C0B0-4D4A-8A02-09EBE918F139}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEDAE851-C0B0-4D4A-8A02-09EBE918F139}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEDAE851-C0B0-4D4A-8A02-09EBE918F139}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEDAE851-C0B0-4D4A-8A02-09EBE918F139}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E48D141F-9978-4E5B-B313-C7F2E17583BE}
+	EndGlobalSection
+EndGlobal
