@@ -13,7 +13,6 @@
     <Folder Include="ViewModels\" />
     <Folder Include="Views\EventCategory\" />
     <Folder Include="Views\Tag\" />
-    <Folder Include="Areas\Identity\Data\" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Pomelo.EntityFrameworkCore.MySql" Version="3.1.1" />
@@ -36,6 +35,5 @@
     <None Remove="Microsoft.AspNetCore.Identity.UI" />
     <None Remove="Microsoft.EntityFrameworkCore.SqlServer" />
     <None Remove="Microsoft.VisualStudio.Web.CodeGeneration.Design" />
-    <None Remove="Areas\Identity\Data\" />
   </ItemGroup>
 </Project>
