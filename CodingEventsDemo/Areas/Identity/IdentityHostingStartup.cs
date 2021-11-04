@@ -1,5 +1,6 @@
 using System;
-using CodingEventsDemo.Areas.Identity.Data;
+//using CodingEventsDemo.Areas.Identity.Data;
+using CodingEventsDemo.Data;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.UI;
