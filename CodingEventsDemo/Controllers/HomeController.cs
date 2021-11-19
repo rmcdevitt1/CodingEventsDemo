@@ -7,6 +7,8 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using CodingEventsDemo.Models;
 
+
+//finished product
 namespace CodingEventsDemo.Controllers
 {
     public class HomeController : Controller
